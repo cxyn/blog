@@ -1,10 +1,10 @@
 baseurl: /
 # Site settings
-title: Colin Wang' Blog
+title: Colin Wang' github page
 email: i@wangyunxiao.com
 url: http://blog.wangyunxiao.com
 description: "Colin Wang's personal page."
-skills: "Front-end developer -- SEO -- Product managing"
+skills: "前端开发 -- 搜索引擎优化 -- 产品运营"
 meta_author: Colin Wang
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Github && Jekyll
   location: Location
   social: Around the Web
   credits: Credits
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 徐庄软件园
+  - line: 江苏省南京市
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
