@@ -1,6 +1,6 @@
 baseurl: /
 # Site settings
-title: Colin Wang' github page
+title: 王云霄的github page
 email: i@wangyunxiao.com
 url: http://blog.wangyunxiao.com
 description: "王云霄的GitHub Page"
@@ -35,7 +35,7 @@ footer:
   copyright: Github && Jekyll
   location: 所在地
   social: 社交
-  credits: Credits
+  credits: 兴趣爱好
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: 江苏省南京市
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '喜爱运动，尤其足球。'
 
 # Build settings
 markdown: kramdown
