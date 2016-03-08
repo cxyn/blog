@@ -6,6 +6,6 @@ img: rotate.png
 alt: 转盘抽奖
 project-date: 2015-12-14
 link: http://work.wangyunxiao.com/rotate/
-description: 这是一个活动页面，除了基本布局以外主要牵扯到一个转盘抽奖的功能，还有一个中奖名单列表向上无缝滚动的效果。转盘功能主要是利用了<a href="http://plugins.jquery.com/rotate/">Jquery Rotate</a>插件，根据转变角度对应不同奖品，利用随机数来随机每一次的角度，还可以控制抽奖次数。当然这只是前台模拟，至于概率啊、次数啊最后都要由后端的同学来控制。无缝滚动主要就是通过margin-top为负值，父元素溢出隐藏，滚动过程中通过slice()截取被隐藏的元素追加到dom中实现。具体请点击下方链接。
+description: 这是一个活动页面，除了基本布局以外主要牵扯到一个转盘抽奖的功能，还有一个中奖名单列表向上无缝滚动的效果。转盘功能主要是利用了<a href="http://plugins.jquery.com/rotate/" target="_blank">Jquery Rotate</a>插件，根据转变角度对应不同奖品，利用随机数来随机每一次的角度，还可以控制抽奖次数。当然这只是前台模拟，至于概率啊、次数啊最后都要由后端的同学来控制。无缝滚动主要就是通过margin-top为负值，父元素溢出隐藏，滚动过程中通过slice()截取被隐藏的元素追加到dom中实现。具体请点击下方链接。
 
 ---
