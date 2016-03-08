@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+date: 2016-02-14
+img: valentine.png
+title: 情人节
+alt: 情人节
+project-date: 2016-02-14
+link: http://work.wangyunxiao.com/valentine-day/
+description: 这是移动端的情人节活动页面，采用阿里巴巴手机淘宝前端团队分享的<a href="https://github.com/amfe/lib-flexible">flexible</a>技术对于移动端页面进行方便快捷地开发，sublime配以css2rem插件，更是体验了类似pc端一样方便的开发过程。希望能够一直普及这种解决方案。链接在下面。
 
 ---

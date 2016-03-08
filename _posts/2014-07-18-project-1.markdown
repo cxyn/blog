@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 date: 2015-12-14
 img: rotate.png
+title: 转盘抽奖
 alt: 转盘抽奖
 project-date: 2015-12-14
 link: http://work.wangyunxiao.com/rotate/
