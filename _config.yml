@@ -3,7 +3,7 @@ baseurl: /
 title: Colin Wang' github page
 email: i@wangyunxiao.com
 url: http://blog.wangyunxiao.com
-description: "Colin Wang's personal page."
+description: "王云霄的GitHub Page"
 skills: "前端开发 -- 搜索引擎优化 -- 产品运营"
 meta_author: Colin Wang
 
@@ -33,22 +33,22 @@ color:
 # Footer settings
 footer:
   copyright: Github && Jekyll
-  location: Location
-  social: Around the Web
+  location: 所在地
+  social: 社交
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
