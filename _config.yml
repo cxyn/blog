@@ -1,6 +1,7 @@
 baseurl: /
 # Site settings
 title: 王云霄的github page
+name: 王云霄
 email: i@wangyunxiao.com
 url: http://blog.wangyunxiao.com
 description: "王云霄的GitHub Page"
@@ -35,7 +36,7 @@ footer:
   copyright: Github && Jekyll
   location: 所在地
   social: 社交
-  credits: 兴趣爱好
+  credits: 联系方式
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,7 +49,7 @@ social:
   - title: bitbucket
     url: 
   - title: github
-    url: 
+    url: https://github.com/cxyn/
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,8 +57,9 @@ address:
   - line: 江苏省南京市
 
 # Credits content
-credits: '喜爱运动，尤其足球。'
-
+credits: 
+  - line: E-mail: i@wangyunxiao.com
+  - line: Mobile: 13605202014
 # Build settings
 markdown: kramdown
 permalink: pretty

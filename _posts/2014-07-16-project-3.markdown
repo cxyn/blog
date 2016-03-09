@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2015-12-10
 img: dl.png
 title: 注册登录页面

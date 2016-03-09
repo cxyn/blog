@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2015-12-30
 img: dl.png
 title: 代练猫首页
 alt: 代练猫首页
 project-date: 2015-12-30
 link: http://work.wangyunxiao.com/dailian/
-description: 代练猫首页，里面主要有轮播，弹出框，两个文字无缝滚动，还有若干动画特效。在文字滚动中因为有两个滚动主体，一度造成this指向问题，造成只有一个可以滚动，后来通过call()改变上下文解决bug。
+description: 代练猫首页，里面主要有轮播，弹出框，两个文字无缝滚动，还有若干动画特效。在文字滚动中因为有两个滚动主体，一度造成this指向问题，造成只有一个可以滚动，后来通过call()改变上下文解决bug。本页面基于1920px宽屏设计，所以在右侧浮动栏的定位上会有一些问题。经过讨论，最后决定窄屏隐藏一半显示，鼠标悬浮显示全部。
 
 ---
