@@ -28,7 +28,7 @@ disqus_shortname: cxyn
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "0,0,0"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -56,7 +56,7 @@ social:
 address:
   - line: 徐庄软件园
   - line: 江苏省南京市
-  
+
 # Build settings
 markdown: kramdown
 permalink: pretty
