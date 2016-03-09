@@ -7,6 +7,6 @@ title: 情人节
 alt: 情人节
 project-date: 2016-02-14
 link: http://work.wangyunxiao.com/valentine-day/
-description: 这是移动端的情人节活动页面，采用阿里巴巴手机淘宝前端团队分享的<a href="https://github.com/amfe/lib-flexible">flexible</a>技术对于移动端页面进行方便快捷地开发，sublime配以css2rem插件，更是体验了类似pc端一样方便的开发过程。希望能够一直普及这种解决方案。链接在下面。
+description: 这是移动端的情人节活动页面，采用阿里巴巴手机淘宝前端团队分享的<a href="https://github.com/amfe/lib-flexible">flexible</a>技术对于移动端页面进行方便快捷地开发，sublime配以css2rem插件，更是体验了类似pc端一样方便的开发过程。希望能够一直普及这种解决方案。点击链接或者扫描二维码查看。
 
 ---

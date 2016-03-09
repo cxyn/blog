@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+date: 2016-02-20
+img: lantern.png
+title: 元宵节
+alt: 元宵节
+project-date: 2016-02-20
+link: http://work.wangyunxiao.com/lantern-festival/
+description: 元宵节移动端活动页面，依然采用手淘团队的flexible方案，基于640px宽的设计图开发完成，主要分为一个首页，和两个猜灯谜闯关页。推荐扫描二维码查看。
 
 ---

@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+date: 2016-03-01
+img: mall.png
+title: 微商城收藏夹
+alt: 微商城收藏夹
+project-date: 2016-03-01
+link: http://work.wangyunxiao.com/mall/
+description: 此页面并未采用flexible解决方案，而是直接rem制作响应式，通过媒体查询设定font-size，不过主要还是针对移动端。针对1px边框的bug直接用一个div包裹边框解决。对于点透的bug也很暴力地采用click代替tap。收藏数量可动态改变，删除功能也是直接6移除dom。详情点击链接，扫描二维码查看效果更好。
 
 ---
