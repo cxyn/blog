@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2015-12-10
-img: dl.png
+img: login.png
 title: 注册登录页面
 alt: 注册登录页面
 project-date: 2015-12-10
