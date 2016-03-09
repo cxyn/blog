@@ -37,7 +37,7 @@ footer:
   copyright: Github && Jekyll
   location: 所在地
   social: 社交
-  credits: 联系方式
+  info: 联系方式
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -58,9 +58,9 @@ address:
   - line: 江苏省南京市
 
 # Credits content
-credits: 
-  - line: i@wangyunxiao.com
-  - line: 13605202014
+information: 
+  - line: Email: i@wangyunxiao.com
+  - line: Tel: 13605202014
 # Build settings
 markdown: kramdown
 permalink: pretty
