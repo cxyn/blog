@@ -34,7 +34,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Github && Jekyll
+  copyright: Github & Jekyll
   location: 所在地
   social: 社交
   info: 联系方式
