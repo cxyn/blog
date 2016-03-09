@@ -59,7 +59,7 @@ address:
 
 # Credits content
 information: 
-  - line: Email: i#wangyunxiao.com
+  - line: Email: i@wangyunxiao.com
   - line: Tel: 13605202014
 # Build settings
 markdown: kramdown
