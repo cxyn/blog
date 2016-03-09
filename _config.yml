@@ -1,8 +1,9 @@
 baseurl: /
 # Site settings
 title: 王云霄的github page
-name: 王云霄
+truename: 王云霄
 email: i@wangyunxiao.com
+tel: 13605202014
 url: http://blog.wangyunxiao.com
 description: "王云霄的GitHub Page"
 skills: "前端开发 -- 搜索引擎优化 -- 产品运营"
@@ -58,8 +59,8 @@ address:
 
 # Credits content
 credits: 
-  - line: E-mail: i@wangyunxiao.com
-  - line: Mobile: 13605202014
+  - line: i@wangyunxiao.com
+  - line: 13605202014
 # Build settings
 markdown: kramdown
 permalink: pretty
