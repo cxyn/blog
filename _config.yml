@@ -56,11 +56,7 @@ social:
 address:
   - line: 徐庄软件园
   - line: 江苏省南京市
-
-# Credits content
-information: 
-  - line: Email: i@wangyunxiao.com
-  - line: Tel: 13605202014
+  
 # Build settings
 markdown: kramdown
 permalink: pretty
